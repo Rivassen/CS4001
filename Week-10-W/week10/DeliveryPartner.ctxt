@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DeliveryPartner
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Delivery\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=partnerId\ name\ basePay
+comment1.target=DeliveryPartner(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getPartnerId()
+comment3.params=partnerId
+comment3.target=void\ setPartnerId(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=double\ getBasePay()
+comment7.params=basePay
+comment7.target=void\ setBasePay(double)
+comment8.params=
+comment8.target=double\ calculatePayment()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
